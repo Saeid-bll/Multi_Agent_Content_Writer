@@ -18,7 +18,7 @@ User → Router ───┼→ X/Twitter Writer ↔ tools (loop)
                  └→ General Handler → END
 ```
 
-![Architecture](images/architecture.png)
+![Architecture](images/Architecture.png)
 
 ## **💡Tips**
 
